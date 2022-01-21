@@ -8,5 +8,7 @@ ColorWater is a diverse semantic segmentation dataset tailored for the comprehen
 The category hierarchical structure of ColorWater as follow. The last column reflects the color-to-category correspondence in the visualization ground truth.
 
 ![](./images/categories.png)
+##Download
+[Baiduyun](https://pan.baidu.com/s/1KeuYfI0ylHhbXygo_9v8fA) code: 9876
 
 
