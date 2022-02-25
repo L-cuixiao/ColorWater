@@ -13,6 +13,6 @@ The category hierarchical structure of ColorWater as follow. The last column ref
 
 ## Download
 
-[Baiduyun](https://pan.baidu.com/s/1KeuYfI0ylHhbXygo_9v8fA) code: 9876
+We'll public the download link of the dataset as soon as
 
 
