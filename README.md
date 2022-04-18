@@ -9,7 +9,7 @@ ColorWater is a diverse semantic segmentation dataset tailored for the comprehen
 ## Annotations
 The category hierarchical structure of ColorWater as follow. The last column reflects the color-to-category correspondence in the visualization ground truth.
 
-![](./images/categories.png)
+![](./images/class.png)
 
 ## Download
 
